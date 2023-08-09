@@ -1,0 +1,103 @@
+.App {
+  margin: 5%;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  width: 90%;
+  margin: 5% 0 5% 0;
+}
+
+h2.content {
+  text-align: center;
+}
+
+h4 {
+  margin: 0;
+}
+
+.header {
+  width: 944px;
+  border-radius: 31px;
+  background: #fff;
+  padding-left: 1em;
+  box-shadow: 15px 11px 30px 0px rgba(75, 92, 84, 0.14);
+  text-align: center;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+
+.rectangle3 {
+  min-width: 181px;
+  /* min-height: 28px; */
+  border-radius: 14px;
+  background: #c1d9cd;
+}
+
+.navsBox {
+  width: 70%;
+  padding: 1em;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.rectangle4 {
+  min-width: 181px;
+  min-height: 28px;
+  border-radius: 14px;
+  background: #DAE8E1;
+}
+
+.contBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.inputs {
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+}
+
+.button {
+  border-radius: 5px;
+  border: 1.5px solid #35694F;
+  background: #35694F;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+.rectangle7 {
+  width: 160px;
+  height: 28px;
+  margin: 1em;
+  border-radius: 14px;
+  background: #DAE8E1;
+}
+
+
+.rectangle8 {
+  width: 349px;
+  height: 28px;
+  margin: 1em;
+  border-radius: 14px;
+  background: #DAE8E1;
+}
+
+.subsection {
+  padding: "100px";
+}
+.errorBox{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
